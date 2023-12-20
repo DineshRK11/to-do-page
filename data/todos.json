@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy some Oranges and juice",
+      "completed": true
+    },
+    {
+      "id": "7632019c-71cf-4cb9-9365-2a2fe58426af",
+      "text": "go to gym",
+      "completed": true
+    },
+    {
+      "id": "d9c57726-b33d-4b4d-a720-ce9b63c34bb5",
+      "text": "wake Up morning",
+      "completed": false
+    }
+  ]
+}
